@@ -1,0 +1,16 @@
+.quadrado{
+	height: 200px;
+	width: 200px;
+}
+.azul{
+	background-color: blue;
+}
+.vermelho{
+	background-color: red;
+}
+.roxo{
+	background-color: purple;
+}
+.verde{
+	background-color: green;
+}
